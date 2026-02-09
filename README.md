@@ -36,7 +36,7 @@ CASE: If some rows contains proper country and regions
     - One pass over file - complexity is O(n)
     - no external API calls during processing
 
-## 1nd ADVANCED SOLUTION
+## 2nd ADVANCED SOLUTION
 CASE: If file completely does not contain proper country and regions
 
 1. Prepare geo database
