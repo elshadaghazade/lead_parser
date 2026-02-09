@@ -86,3 +86,5 @@ Validation rules are selected by sub_status field (strategy pattern):
 
 ## Demo video
 Video demo and explanation is available on YouTube:
+
+[DEMO VIDEO](https://youtu.be/roefyxgfbmw)
