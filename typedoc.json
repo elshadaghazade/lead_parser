@@ -1,0 +1,10 @@
+{
+  "entryPointStrategy": "expand",
+  "entryPoints": ["src"],
+  "out": "docs",
+  "name": "Parser Task Docs",
+  "readme": "README.md",
+  "excludePrivate": true,
+  "excludeProtected": true,
+  "skipErrorChecking": true
+}

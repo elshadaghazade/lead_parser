@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext", "DOM"],
+    "outDir": "./dist",
+    "resolveJsonModule": true,
+    "downlevelIteration": true
+  },
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "docs",
+    "dist"
+  ]
+}
